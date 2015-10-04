@@ -129,7 +129,7 @@
                     <!-- remote branch name -->
                     <branch>refs/heads/master</branch>
                     <!-- replace -->
-                    <merge>false</merge>
+                    <merge>true</merge>
                     <includes>
                         <include>**/*</include>
                     </includes>
